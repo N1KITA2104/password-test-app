@@ -1,6 +1,12 @@
 # PasswordTestApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+This project is a basic Angular application that demonstrates a password strength checker. It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+
+## Features
+
+- **Password Strength Indicator**: Visual feedback on the strength of the entered password using a progress bar.
+- **Form Validation**: Angular Reactive Forms are used to validate password strength and ensure compliance with different complexity levels.
+- **Styled Components**: Includes basic styling for the form and progress bar.
 
 ## Development server
 
